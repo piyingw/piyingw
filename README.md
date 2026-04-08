@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+%F0%9F%91%8+I'm+Wang+Shichong;A+Passionate+Backend+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+I'm+Wang+Shichong;A+Passionate+Backend+Developer+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -27,10 +27,9 @@ public class Developer {
 ```
 
 - 🔭 目前在开发 **AI高考志愿推荐系统**
-- 🌱 正在学习 **LLM应用开发 | 分布式系统**
-- 💬 可以和我聊 **Java后端 | AI应用 | 高考志愿**
-- 📫 联系我: **3088731183，欢迎qq交流**
-- ⚡ 有趣的事: **正在学习llm相关**
+- 🌱 正在学习 **LLM相关，准备使用pyhton重构项目中的ai部分**
+- 💬 可以和我聊 **Java后端 | AI应用 | 实习交流**
+- 📫 联系我: **3088731183，欢迎qq交流实习经历**
 
 ---
 
@@ -88,7 +87,6 @@ public class Developer {
       <h3 align="center">🤖 AI/LLM</h3>
       <div align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-        <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="OpenAI" width="40" height="40"/>
         <img src="https://img.shields.io/badge/LangChain4j-000000?style=for-the-badge&logo=LangChain&logoColor=white" alt="LangChain4j"/>
         <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" alt="RAG"/>
       </div>
@@ -145,7 +143,7 @@ public class Developer {
 </div>
 
 <div align="center">
-  <i>⭐️ 如果喜欢我的项目，别忘了点个 Star 哦!</i>
+  <i>⭐️ 欢迎与我交流</i>
 </div>
 
 <img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:58A6FF&height=120&section=footer"/>
