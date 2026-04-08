@@ -17,7 +17,7 @@ public class Developer {
     private int age = 21;
     private String university = "西安石油大学";
     private String major = "软件工程";
-    private String role = "后端开发工程师";
+    private String role = "开发/测开";
     private String[] skills = {"Java", "Spring Boot", "AI/LLM", "Redis", "MySQL"};
     
     public String getCurrentFocus() {
@@ -29,8 +29,8 @@ public class Developer {
 - 🔭 目前在开发 **AI高考志愿推荐系统**
 - 🌱 正在学习 **LLM应用开发 | 分布式系统**
 - 💬 可以和我聊 **Java后端 | AI应用 | 高考志愿**
-- 📫 联系我: **3088731183@qq.com**
-- ⚡ 有趣的事: **我是一个热爱编程的学生开发者**
+- 📫 联系我: **3088731183，欢迎qq交流**
+- ⚡ 有趣的事: **正在学习llm相关**
 
 ---
 
@@ -120,12 +120,10 @@ public class Developer {
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" align="right"/>
 
-### 🎯 2024 Goals
-- [x] 学习 Spring Boot
-- [x] 开发 AI 应用
-- [x] 掌握 LangChain4j
-- [ ] 找到一份好实习
-- [ ] 贡献开源项目
+### 🎯 2026 Goals
+-  开发 AI 应用
+- 学习Python的ai开发技术栈
+- 找到一份好实习
 
 ---
 
