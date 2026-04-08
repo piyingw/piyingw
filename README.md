@@ -99,13 +99,11 @@ public class Developer {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyingw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em"/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyingw&theme=tokyonight" height="180em"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyingw&layout=compact&theme=tokyonight" height="180em"/>
-</div>
+
 
 ---
 
